@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Charuka Wijesinghe</h1>
 <h3 align="center">Undergraduate Software Engineering Student at SLIIT | Passionate about Building Scalable Solutions</h3>
 
 ---
@@ -16,7 +16,7 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="www.linkedin.com/in/charuka-wijesinghe-9aa2ab367" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/yourusername" target="_blank">
@@ -39,9 +39,9 @@
 
 ### 📌 Pinned Projects
 
-- 🚀 **Project 1** – Short description about your project  
-- 📊 **Project 2** – Short description about your project  
-- 🤖 **Project 3** – Short description about your project  
+- 🚀 **Project 1** –   
+- 📊 **Project 2** –   
+- 🤖 **Project 3** –    
 
 ---
 
