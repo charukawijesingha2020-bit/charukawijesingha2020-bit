@@ -19,7 +19,7 @@
   <a href="www.linkedin.com/in/charuka-wijesinghe-9aa2ab367" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/charukawijesingha2020-bit" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://facebook.com/yourprofile" target="_blank">
