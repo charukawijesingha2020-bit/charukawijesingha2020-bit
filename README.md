@@ -3,7 +3,7 @@
 
 ---
 
-### 💻 About Me
+###  About Me
 
 🎓 I'm a Software Engineering undergraduate at **SLIIT**, currently developing strong skills in software design, development, and problem-solving.
 
@@ -13,7 +13,7 @@
 
 ---
 
-### 🔗 Connect With Me
+###  Connect With Me
 
 <p align="center">
   <a href="www.linkedin.com/in/charuka-wijesinghe-9aa2ab367" target="_blank">
@@ -45,7 +45,7 @@
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
@@ -54,7 +54,7 @@
 
 ---
 
-### 🎯 Current Focus
+###  Current Focus
 
 - Learning **Full Stack Development**
 - Improving **Data Structures & Algorithms**
@@ -62,7 +62,7 @@
 
 ---
 
-### 💡 Motto
+###  Motto
 
 > "Code. Learn. Build. Repeat."
 
