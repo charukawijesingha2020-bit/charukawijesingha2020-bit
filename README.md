@@ -40,8 +40,7 @@
 ### 📌 Pinned Projects
 
 - Smart Travel Assistance & Management System – A smart solution for travel planning, management, and safety assistance.
-- 📊 **Project 2** –   
-- 🤖 **Project 3** –    
+   
 
 ---
 
