@@ -29,7 +29,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode" />
@@ -37,11 +37,11 @@
 
 ---
 
-### 📌 Pinned Projects
+### Pinned Projects
 
 - Smart Travel Assistance & Management System – A smart solution for travel planning, management, and safety assistance.
-  
 
+  
 ###  Current Focus
 
 - Learning **Full Stack Development**
