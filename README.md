@@ -13,7 +13,7 @@
 ###  Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/charuka-wijesinghe-9aa2ab367" target="_blank">
+  <a href="[www.linkedin.com/in/charuka-wijesinghe-9aa2ab367](https://www.linkedin.com/in/charuka-wijesinghe-9aa2ab367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/charukawijesingha2020-bit" target="_blank">
