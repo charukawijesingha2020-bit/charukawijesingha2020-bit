@@ -4,7 +4,6 @@
 ###  About Me
 
 
-
 🎓 I'm a Software Engineering undergraduate at **SLIIT**, currently developing strong skills in software design, development, and problem-solving.
 
 🚀 I’m passionate about building real-world applications and continuously improving my technical skills through hands-on projects.
