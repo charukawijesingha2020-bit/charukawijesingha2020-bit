@@ -1,4 +1,4 @@
-<h1 align="center"> Charuka Wijesingha</h1>
+<h1 align="center"> Wijesingha A.P.D.O.C</h1>
 <h3 align="center">Undergraduate Software Engineering Student at SLIIT | Passionate about Building Scalable Solutions</h3>
 
 
