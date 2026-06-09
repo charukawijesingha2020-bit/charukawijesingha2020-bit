@@ -2,7 +2,6 @@
 <h3 align="center">Undergraduate Software Engineering Student at SLIIT | Passionate about Building Scalable Solutions</h3>
 
 
-
 ###  About Me
 
 🎓 I'm a Software Engineering undergraduate at **SLIIT**, currently developing strong skills in software design, and problem-solving.
