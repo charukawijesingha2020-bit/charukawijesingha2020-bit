@@ -1,58 +1,87 @@
-<h1 align="center"> Wijesingha A.P.D.O.C</h1>
-<h3 align="center">Undergraduate Software Engineering Student at SLIIT | Passionate about Building Scalable Solutions</h3>
+ <h1 align="center">Hey 👋, I'm Charuka Wijesinghe</h1>
 
-
-###  About Me
-
-
-🎓 I'm a Software Engineering undergraduate at **SLIIT**, currently developing strong skills in software design, and problem-solving.
-
-🚀 I’m passionate about building real-world applications and continuously improving my technical skills through hands-on projects.
- 
-🧠 I enjoy learning new technologies, understanding system architectures, and applying best practices in software development.
- 
-
-  
-###  Connect With Me
-
+<h3 align="center">
+Software Engineering Undergraduate • Full Stack Developer • Building Things That Matter
+</h3>
 
 <p align="center">
-  <a href="[www.linkedin.com/in/charuka-wijesinghe-9aa2ab367](https://www.linkedin.com/in/charuka-wijesinghe-9aa2ab367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank" >
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/charukawijesingha2020-bit" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://facebook.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" />
-  </a>
-</p>
-
-
-
-### Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;MERN+Stack+Developer;Spring+Boot+Enthusiast;Machine+Learning+Explorer;Always+Learning+New+Things" />
 </p>
 
 ---
 
-### Pinned Projects
+## 🧑‍💻 About Me
 
+🎓 Software Engineering Undergraduate at **SLIIT**
 
-- Smart Travel Assistance & Management System – A smart solution for travel planning, management, and safety assistance.
+🚀 Passionate about building real-world applications and solving problems through technology.
 
-  
-###  Current Focus
+💡 Interested in **Full Stack Development**, **Machine Learning**, and **Software Architecture**.
 
-- Learning **Full Stack Development**
-- Improving **Data Structures & Algorithms**
-- Building **Real-World Software Projects**
+🌱 Currently exploring **Spring Boot**, **System Design**, and **Cloud Technologies**.
 
+---
 
+## ⚡ Tech Arsenal
 
-###  Motto
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,mysql,spring,git,github,vscode,idea" />
+</p>
 
-> "Code. Learn. Build. Repeat..."
+---
 
+## 🚀 Featured Projects
+
+### ✈ Smart Travel Assistance & Management System
+
+> MERN Stack based travel platform with emergency assistance, support services, and tour package management.
+
+### 🍽 Restaurant Management System
+
+> Mobile application with dish review and feedback management system.
+
+### 💻 Laptop Price Predictor
+
+> Machine Learning project using Decision Trees and Random Forest algorithms.
+
+### 🏦 Life Insurance Management System
+
+> Web-based insurance platform with policy and user management.
+
+### 🎓 Student Management System
+
+> Spring Boot application with feedback management functionality.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=charukawijesingha2020-bit&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=charukawijesingha2020-bit&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/charuka-wijesinghe-9aa2ab367/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="https://github.com/charukawijesingha2020-bit">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="mailto:charukawijesingha2020@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+💭 <i>"Code. Learn. Build. Repeat."</i>
+</p>
