@@ -1,4 +1,4 @@
- <h1 align="center">Hey 👋, I'm Charuka Wijesinghe</h1>
+ <h1 align="center">Hey 👋, I'm Charuka Wijesingha</h1>
 
 <h3 align="center">
 Software Engineering Undergraduate • Full Stack Developer • Building Things That Matter
