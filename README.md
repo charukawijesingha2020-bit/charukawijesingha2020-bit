@@ -4,6 +4,7 @@
 Software Engineering Undergraduate • Full Stack Developer • Building Things That Matter
 </h3>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;MERN+Stack+Developer;Spring+Boot+Enthusiast;Machine+Learning+Explorer;Always+Learning+New+Things" />
 </p>
