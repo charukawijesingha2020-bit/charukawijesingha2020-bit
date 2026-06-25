@@ -13,6 +13,14 @@ Software Engineering Undergraduate • Full Stack Developer • Building Things 
 
 ## 🧑‍💻 About Me
 
+<div align="center">
+
+<h3>Building ideas into real-world web applications 💡</h3>
+
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="420"/>
+
+</div>
+
 🎓 Software Engineering Undergraduate at **SLIIT**
 
 🚀 Passionate about building real-world applications and solving problems through technology.
@@ -20,6 +28,7 @@ Software Engineering Undergraduate • Full Stack Developer • Building Things 
 💡 Interested in **Full Stack Development**, **Machine Learning**, and **Software Architecture**.
 
 🌱 Currently exploring **Spring Boot**, **System Design**, and **Cloud Technologies**.
+
 
 ---
 
@@ -74,13 +83,7 @@ Software Engineering Undergraduate • Full Stack Developer • Building Things 
 
  
 
-<div align="center">
-
-I'm a Software Engineering student passionate about building web apps and solving real-world problems.
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-
-</div>
+ 
 
 
 <p align="center">
