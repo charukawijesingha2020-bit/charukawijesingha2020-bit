@@ -77,11 +77,9 @@ Software Engineering Undergraduate • Full Stack Developer • Building Things 
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420"/>
+<h3>Full Stack Developer 🚀 | Building modern web apps</h3>
 
-<br>
-
-💻 *Turning coffee into code & ideas into applications*
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="420"/>
 
 </div>
 
