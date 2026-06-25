@@ -72,13 +72,15 @@ Software Engineering Undergraduate • Full Stack Developer • Building Things 
   <a href="https://charuka-codes-showcase.lovable.app">
     <img src="https://img.shields.io/badge/## 🧑‍💻 About Me
 
+ 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
-</p>Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
+I'm a Software Engineering student passionate about building web apps and solving real-world problems.
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
+</div>
 
 
 <p align="center">
