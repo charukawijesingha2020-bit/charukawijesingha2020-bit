@@ -73,20 +73,15 @@ Software Engineering Undergraduate • Full Stack Developer • Building Things 
   <a href="https://charuka-codes-showcase.lovable.app">
     <img src="https://img.shields.io/badge/## 🧑‍💻 About Me
 
- ## 
+##  
 
 <div align="center">
 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420"/>
 
-<lottie-player 
-    src="https://assets2.lottiefiles.com/packages/lf20_jcikwtux.json"  
-    background="transparent"  
-    speed="1"  
-    style="width: 400px; height: 400px;"  
-    loop  
-    autoplay>
-</lottie-player>
+<br>
+
+💻 *Turning coffee into code & ideas into applications*
 
 </div>
 
