@@ -12,15 +12,7 @@ Software Engineering Undergraduate • Full Stack Developer • Building Things 
 ---
 
 ## 🧑‍💻 About Me
-
-<div align="center">
-
-<h3>Building ideas into real-world web applications 💡</h3>
-
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="420"/>
-
-</div>
-
+ 
 🎓 Software Engineering Undergraduate at **SLIIT**
 
 🚀 Passionate about building real-world applications and solving problems through technology.
@@ -84,6 +76,21 @@ Software Engineering Undergraduate • Full Stack Developer • Building Things 
  
 
  
+
+<div align="center">
+
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
+<lottie-player 
+    src="https://assets2.lottiefiles.com/packages/lf20_jcikwtux.json"  
+    background="transparent"  
+    speed="1"  
+    style="width: 400px; height: 400px;"  
+    loop  
+    autoplay>
+</lottie-player>
+
+</div>
 
 
 <p align="center">
