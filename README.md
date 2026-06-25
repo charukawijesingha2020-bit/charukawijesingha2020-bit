@@ -9,6 +9,14 @@ Software Engineering Undergraduate • Full Stack Developer • Building Things 
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;MERN+Stack+Developer;Spring+Boot+Enthusiast;Machine+Learning+Explorer;Always+Learning+New+Things" />
 </p>
 
+<div align="center">
+
+ 
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="380"/>
+
+
+
+</div>
 ---
 
 ## 🧑‍💻 About Me
@@ -57,16 +65,6 @@ Software Engineering Undergraduate • Full Stack Developer • Building Things 
 
 ---
 
- 
-
-<div align="center">
-
- 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="380"/>
-
-
-
-</div>
 
 
 ## 🌐 Connect With Me
