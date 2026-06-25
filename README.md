@@ -73,9 +73,7 @@ Software Engineering Undergraduate • Full Stack Developer • Building Things 
   <a href="https://charuka-codes-showcase.lovable.app">
     <img src="https://img.shields.io/badge/## 🧑‍💻 About Me
 
- 
-
- 
+ ## 
 
 <div align="center">
 
