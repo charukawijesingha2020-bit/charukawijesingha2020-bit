@@ -59,6 +59,15 @@ Software Engineering Undergraduate • Full Stack Developer • Building Things 
 
  
 
+<div align="center">
+
+ 
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="380"/>
+
+<p>💻 I love building web apps, solving problems, and learning new tech</p>
+
+</div>
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -73,15 +82,6 @@ Software Engineering Undergraduate • Full Stack Developer • Building Things 
   <a href="https://charuka-codes-showcase.lovable.app">
     <img src="https://img.shields.io/badge/## 🧑‍💻 About Me
 
-##  
-
-<div align="center">
-
-<h3>Full Stack Developer 🚀 | Building modern web apps</h3>
-
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="420"/>
-
-</div>
 
 
 <p align="center">
