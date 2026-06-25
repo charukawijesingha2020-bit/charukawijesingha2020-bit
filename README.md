@@ -64,9 +64,10 @@ Software Engineering Undergraduate • Full Stack Developer • Building Things 
  
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="380"/>
 
-<p>💻 I love building web apps, solving problems, and learning new tech</p>
+
 
 </div>
+
 
 ## 🌐 Connect With Me
 
