@@ -84,8 +84,7 @@ Software Engineering Undergraduate • Full Stack Developer • Building Things 
 ---
 
 
-## 🧑‍💻 About Me
-
+ 
 <p align="center">
-💭 <i>" Alea iacta est !"</i>
+💭 <i>"### Alea iacta est !"</i>
 </p>
