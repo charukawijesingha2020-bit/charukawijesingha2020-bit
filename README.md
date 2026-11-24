@@ -17,6 +17,7 @@ Software Engineering Undergraduate • Full Stack Developer • Building Things 
 
 💡 Interested in **Full Stack Development**, **Machine Learning**, and **Software Architecture**.
 
+🌱 Currently exploring **Spring Boot**, **System Design**, and **Cloud Technologies**.
  
 
 
